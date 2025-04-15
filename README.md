@@ -36,12 +36,12 @@ the "dead darflen theory" generally revolves around the following core principle
 
 ## contributing
 
-[just email me at htut@tuta.io]
+just email me at htut@tuta.io
 
 ## license
 
-[dead darflen theory © 2025 by jcole is licensed under CC BY-NC 4.0]
+dead darflen theory © 2025 by jcole is licensed under CC BY-NC 4.0
 
 ## contact
 
-[just email me at htut@tuta.io]
+just email me at htut@tuta.io
